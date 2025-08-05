@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registration Form App</string>
+    <string name="register">Register</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="your_account_details">Your Account Details</string>
+    <string name="mr_fullname_user">Mr Fullname User</string>
+    <string name="email_adress_com">email@adress.com</string>
+    <string name="_48_792_123_456">+48 792 123 456</string>
+</resources>

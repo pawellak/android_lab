@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.RegistrationFormApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Theme.RegistrationFormApp" parent="Base.Theme.RegistrationFormApp" />
+</resources>
