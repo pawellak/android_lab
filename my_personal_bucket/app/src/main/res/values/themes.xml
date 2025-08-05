@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyBucketList" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    <style name="Theme.MyBucketList" parent="Base.Theme.MyBucketList" />
+</resources>
